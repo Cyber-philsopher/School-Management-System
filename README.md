@@ -147,5 +147,10 @@ The application provides a CLI for managing entities:
    ``` 
 ---
 
+## Demo
+
+- [Link to a Demo Video](https://www.loom.com/share/df5d0f1604fd42a7879d83a12eb5e994?sid=02bd31be-d711-4d6f-b9c2-2376183283f4)
+---
+
 ## Conclusion
 This project demonstrates the implementation of a modular, object-oriented CLI application for managing educational entities. It highlights the use of TypeScript, Sequelize, and SQLite, along with best practices for OOP architecture and separation of concerns. The project is well-suited for academic purposes and can be extended further for additional functionality.
